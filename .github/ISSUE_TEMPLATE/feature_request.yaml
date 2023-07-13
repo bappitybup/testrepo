@@ -20,7 +20,7 @@ body:
       label: Describe The Feature Request Below
       description: A clear and concise description of what the feature request is.
       placeholder: |
-        ex. 
+        EXAMPLES: 
         - Normally this happens, but that could happen instead
         - This functionality should be added
         - This functionality should be changed
