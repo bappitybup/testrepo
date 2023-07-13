@@ -12,14 +12,15 @@ body:
           required: true
         - label: This is a single feature request. (Do not put multiple feature requests in one issue)
           required: true
-        - label: This is not a question or discussion. (use https://lemmy.ml/c/jerboa for that)
+        - label: This is not a question or discussion. (Use https://lemmy.ml/c/jerboa for that)
           required: true
   - type: textarea
     id: describefeaturerequest
     attributes:
       label: Describe The Feature Request Below
       description: A clear and concise description of what the feature request is.
-      placeholder: ex. 
+      placeholder: |
+        ex. 
         - Normally this happens, but that could happen instead
         - This functionality should be added
         - This functionality should be changed
