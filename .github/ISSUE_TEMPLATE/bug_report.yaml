@@ -48,7 +48,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        > <details><summary>Click here if you don't know how to get the logs</summary>
+        <details><summary>Click here if you don't know how to get the logs</summary>
         > 
         > 
         > Follow these steps (skip the ones you already have done):
@@ -87,3 +87,4 @@ body:
         > 
         > That should look like something like this.
         > ![example_cmd.png](../../media/example_cmd.png)
+        </details>
