@@ -56,9 +56,9 @@ body:
         > - Install ADB on your PC
         > - Connect your phone to your PC
         > - Execute this command on PC
-
+        > 
         > ### To enable developer options and USD DEBUGGING
-
+        > 
         [Follow this article](https://developer.android.com/studio/debug/dev-options)
         In essence you find the build number in About section of settings page and tap it a few times
         Then open developer options and enable USB DEBUGGING
