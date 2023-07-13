@@ -51,7 +51,7 @@ body:
         <details><summary>Click here if you don't know how to get the logs</summary>
 
 
-        Follow these steps (skip the ones you already have done):
+        > Follow these steps (skip the ones you already have done):
         - Enable developer options and USB DEBUGGING
         - Install ADB on your PC
         - Connect your phone to your PC
