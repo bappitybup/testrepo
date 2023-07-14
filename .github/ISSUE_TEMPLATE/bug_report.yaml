@@ -48,6 +48,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        <hr />
+        
         ### How to get crash logs
         **<details><summary>IF CRASHING ON STARTUP (Click to expand instructions)</summary>**
         > 
