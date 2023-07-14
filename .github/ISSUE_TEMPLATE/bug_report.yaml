@@ -48,17 +48,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        <hr />
         ### How to get crash logs (Click to expand instructions below)
-        <details><summary>FOR ANY OTHER CRASHES</summary>
-        > Follow these steps (skip the ones you already have done):
-        > - Open Jerboa
-        > - Go to 'Settings'
-        > - Go to 'About'
-        > - Go to 'Crash Logs'
+        **<details><summary>IF CRASHING ON STARTUP</summary>**
         > 
-        </details>
-        <details><summary>IF CRASHING ON STARTUP</summary>
         > Follow these steps (skip the ones you already have done):
         > - Enable developer options and USB DEBUGGING
         > - Install ADB on your PC
@@ -100,4 +92,15 @@ body:
         > 
         > Either include it as a file or paste it in the textarea above
         > 
+        </details>
+
+        **<details><summary>FOR OTHER CRASHES</summary>**
+        > 
+        > Follow these steps (skip the ones you already have done):
+        > 
+        > - Open Jerboa
+        > - Go to 'Settings'
+        > - Go to 'About'
+        > - Go to 'Crash Logs'
+
         </details>
