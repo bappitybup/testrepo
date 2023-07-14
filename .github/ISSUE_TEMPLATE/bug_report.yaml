@@ -51,7 +51,7 @@ body:
         <hr />
         
         ### How Do I Get Crash Logs?
-        **<details><summary>IF CRASHING ON STARTUP (Click to expand instructions)</summary>**
+        **<details><summary>FOR CRASHES ON STARTUP (Click to expand)</summary>**
         > 
         > Follow these steps (skip the ones you already have done):
         > - Enable developer options and USB DEBUGGING
@@ -96,7 +96,7 @@ body:
         > 
         </details>
 
-        **<details><summary>FOR OTHER CRASHES (Click to expand instructions)</summary>**
+        **<details><summary>FOR GENERAL CRASHES (Click to expand)</summary>**
         > 
         > Follow these steps (skip the ones you already have done):
         > 
