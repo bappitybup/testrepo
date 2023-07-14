@@ -48,10 +48,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        <hr />
-        
-        ### How to get crash logs (Click to expand instructions below)
-        **<details><summary>IF CRASHING ON STARTUP</summary>**
+        ### How to get crash logs
+        **<details><summary>IF CRASHING ON STARTUP (Click to expand instructions)</summary>**
         > 
         > Follow these steps (skip the ones you already have done):
         > - Enable developer options and USB DEBUGGING
@@ -96,7 +94,7 @@ body:
         > 
         </details>
 
-        **<details><summary>FOR OTHER CRASHES</summary>**
+        **<details><summary>FOR OTHER CRASHES (Click to expand instructions)</summary>**
         > 
         > Follow these steps (skip the ones you already have done):
         > 
